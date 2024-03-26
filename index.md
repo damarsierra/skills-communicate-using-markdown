@@ -11,3 +11,8 @@ if [ -e ]
   echo "Hellooooooooooo!"
 fi
 ```
+
+
+- [ ] Are you having fun?
+- [ ] Are you tired?
+- [ ] Do you like pizza? :0
